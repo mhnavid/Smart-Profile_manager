@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Profile Manager</string>
+    <string name="activation__btn">Active</string>
+</resources>
